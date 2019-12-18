@@ -9,3 +9,4 @@
 |4|建造者模式|BuilderPattern|2019.12.13
 |5|原型模型|PrototypePattern|2019.12.16
 |6|适配器模式|AdapterPattern|2019.12.17
+|7|桥接模式|BridgePattern|2019.12.18
