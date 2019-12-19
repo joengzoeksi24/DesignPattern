@@ -10,3 +10,4 @@
 |5|原型模型|PrototypePattern|2019.12.16
 |6|适配器模式|AdapterPattern|2019.12.17
 |7|桥接模式|BridgePattern|2019.12.18
+|8|过滤器模式|FilterPattern|2019.12.19
