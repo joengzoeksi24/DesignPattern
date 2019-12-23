@@ -12,3 +12,9 @@
 |7|桥接模式|BridgePattern|2019.12.18
 |8|过滤器模式|FilterPattern|2019.12.19
 |9|组合模式|CompositePattern|2019.12.20
+|10|装饰器模式|DecoratorPattern|2019.12.23
+|11|外观模式|FacadePattern|2019.12.23
+|12|享元模式|FlyweightPattern|2019.12.23
+|13|代理模式|ProxyPattern|2019.12.23
+|14|责任链模式|ChainOfResponsibilityPattern|2019.12.23
+
