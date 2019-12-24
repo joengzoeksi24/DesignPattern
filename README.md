@@ -17,4 +17,6 @@
 |12|享元模式|FlyweightPattern|2019.12.23
 |13|代理模式|ProxyPattern|2019.12.23
 |14|责任链模式|ChainOfResponsibilityPattern|2019.12.23
+|15|命令模式|CommandPattern|2019.12.24
+|16|解释器模式|InterpreterPattern|2019.12.24
 
