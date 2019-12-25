@@ -19,4 +19,9 @@
 |14|责任链模式|ChainOfResponsibilityPattern|2019.12.23
 |15|命令模式|CommandPattern|2019.12.24
 |16|解释器模式|InterpreterPattern|2019.12.24
-
+|17|迭代器模式|IteratorPattern|2019.12.25
+|18|中介者模式|MediatorPattern|2019.12.25
+|19|备忘录模式|MementoPattern|2019.12.25
+|20|观察者模式|ObserverPattern|2019.12.25
+|21|状态模式|StatePattern|2019.12.25
+|22|空对象模式|NullObjectPattern|2019.12.25
