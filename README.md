@@ -25,3 +25,10 @@
 |20|观察者模式|ObserverPattern|2019.12.25
 |21|状态模式|StatePattern|2019.12.25
 |22|空对象模式|NullObjectPattern|2019.12.25
+|23|策略模式|StrategyPattern|2019.12.26
+|24|模板模式|TemplatePattern|2019.12.26
+|25|访问者模式|VisitorPattern|2019.12.26
+|26|MVC模式|MVCPattern|2019.12.26
+|27|业务代表模式|BusinessDelegatePattern|2019.12.26
+|28|组合实体模式|CompositeEntityPattern|2019.12.26
+
