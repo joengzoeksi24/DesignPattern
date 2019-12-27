@@ -1,5 +1,5 @@
 
-###一、简介
+### 一、简介
 
 设计模式代表了最佳实践。使用设计模式是为了重用代码、让代码更容易被他人理解、保证代码可靠性。
 
@@ -20,7 +20,7 @@
  ![设计模式之间的关系](https://github.com/xulei717/DesignPattern/blob/master/the-relationship-between-design-patterns.jpg  "设计模式之间的关系")
 
 
-###二、具体各种设计模式
+### 二、具体各种设计模式
 
 **1.工厂模式 Factory Pattern**
 
@@ -414,7 +414,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
  &emsp;
 
 
-###设计模式六大原则
+### 设计模式六大原则
 
 
 **1.单一原则 Single Responsibility Principle：**
