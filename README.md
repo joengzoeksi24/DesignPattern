@@ -31,4 +31,21 @@
 |26|MVC模式|MVCPattern|2019.12.26
 |27|业务代表模式|BusinessDelegatePattern|2019.12.26
 |28|组合实体模式|CompositeEntityPattern|2019.12.26
+|29|数据访问对象模式|DataAccessObjectPattern|2019.12.27
+|30|前端控制器模式|FrontControllerPattern|2019.12.27
+|31|拦截过滤器模式|InterceptingFilterPattern|2019.12.27
+|32|服务定位器模式|ServiceLocatorPattern|2019.12.27
+|33|传输对象模式|TransferObjectPattern|2019.12.27
+
+ &emsp;
+## 六大原则
+|id|名字
+|-|-
+|1|单一原则
+|2|里氏替换原则
+|3|依赖倒置原则
+|4|接口隔离
+|5|迪米特原则
+|6|开闭原则
+
 
